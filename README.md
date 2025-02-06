@@ -1,4 +1,5 @@
 Blog Application | Flask, MySQL
+
 A user-friendly blogging web app built using Flask and SQLAlchemy ORM for efficient CRUD operations and a seamless user experience.
 
 Features
